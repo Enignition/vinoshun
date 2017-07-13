@@ -1,0 +1,14 @@
+body {
+  font-size: 14px;
+  font-family: arial, verdana, "times new roman";
+  color: navy;
+}
+
+h2 {
+  color: #ffc;
+  background-color: #009;
+}
+
+h3 {
+  text-decoration: underline;
+}
